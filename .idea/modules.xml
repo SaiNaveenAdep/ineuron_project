@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/qwer.iml" filepath="$PROJECT_DIR$/.idea/qwer.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysql1.iml" filepath="$PROJECT_DIR$/.idea/mysql1.iml" />
+>>>>>>> 0fbc7e6f5c60525936ff4734d4731f57446649e2
     </modules>
   </component>
 </project>
